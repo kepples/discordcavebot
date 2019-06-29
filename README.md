@@ -7,3 +7,5 @@ Hope you enjoy the project though, just input your testing token at the end of t
 
 This project has gone thru multiple names, GamerBot -> CaveBot -> DiscordCave
 just so you know!
+
+All code and Game Data written and coded by KeplerTeddy#1138!
